@@ -409,7 +409,7 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 
 # More Rich Content
 
-Hugo Coder provides some Custom Shortcodes.
+Hugo provides some custom shortcodes.
 
 ## Notice Shortcodes
 
