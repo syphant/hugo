@@ -16,7 +16,9 @@ style = "catppuccin-mocha"
 [params]
 author = "Chris Corbell"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-#description = "John Doe's personal website"
+favicon_16 = "favicon16.png"
+favicon_32 = "favicon32.png"
+faviconSVG = "favicon.svg"
 keywords = "blog,developer,personal"
 info = ["", "Corporate Platform Admin,", "Digital Media Enthusiast,", "Self-Hosted Homelab Hobbyist.", ""]
 avatarURL = "images/avatar.png"
