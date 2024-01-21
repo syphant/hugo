@@ -15,4 +15,4 @@ I had the idea of creating this to post cool useful stuff that others would find
 
 As far as frequency is concerned, I suppose we'll see how often inspiration and motivation will strike.
 
-Built with [Hugo](https://gohugo.io/), deployed with [Cloudflare](https://pages.cloudflare.com/).
+Built with [Hugo](https://gohugo.io/), deployed with [Cloudflare](https://pages.cloudflare.com/). All text is set in the [Inter](https://rsms.me/inter/) typeface.
