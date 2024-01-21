@@ -3,7 +3,7 @@ title = "Hugo Markdown Guide"
 date = "2024-01-21"
 +++
 
-This article offers an detailed overview of what can be used in Hugo content files.
+This article offers a detailed overview of what can be used in Hugo content files.
 
 <!--more-->
 
