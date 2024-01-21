@@ -2,5 +2,4 @@
 title = "Contact"
 slug = "contact"
 +++
-
-Follow me, @johndoe.
+Feel free to email me at [chriscorbell24@gmail.com](mailto:chriscorbell24@gmail.com).

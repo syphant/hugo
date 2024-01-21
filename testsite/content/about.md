@@ -2,16 +2,17 @@
 title = "What's this here for?"
 +++
 
-I don't know yet. Maybe I'll start posting cool and useful stuff here that others would find interesting, likely related to:
+I had the idea of creating this to post cool useful stuff that others would find interesting, mostly related to:
 
-* Docker
-* Linux
-* Self-hosted FOSS webapps
-* Media management
-* Learning more web dev stuff that I suck at
-* Hardware shenanigans
-* Unholy technomancy forbidden by the Geneva Convention
+* 🐋 Docker
+* 📦 Linux
+* 🚀 Self-hosted FOSS webapps
+* 🍿 Media management
+* ✨ Fun terminal shenanigans
+* 💸 Hardware problems (hopefully not)
+* 🌐 Learning more web dev stuff that I suck at
+* 🚫 Unholy technomancy forbidden by the Geneva Convention
 
-I guess we'll see whenever inspiration and motivation strike me again.
+As far as frequency is concerned, I suppose we'll see how often inspiration and motivation will strike.
 
-Made with 💜 (and also with [Hugo](https://gohugo.io/) and [Cloudflare](https://pages.cloudflare.com/)).
+⚡ Powered by [Hugo](https://gohugo.io/) and [Cloudflare](https://pages.cloudflare.com/) ⚡

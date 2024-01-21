@@ -16,7 +16,7 @@ author = "Chris Corbell"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 #description = "John Doe's personal website"
 keywords = "blog,developer,personal"
-info = ["", "Corporate Platform Admin,", "Self-Hosted Homelab Hobbyist,", "Noob Web Dev.", ""]
+info = ["", "Corporate Platform Admin,", "Digital Media Enthusiast,", "Self-Hosted Homelab Hobbyist.", ""]
 avatarURL = "images/avatar.png"
 #gravatar = "chriscorbell24@gmail.com"
 dateFormat = "January 2, 2006"
@@ -128,16 +128,22 @@ tag = "tags"
 author = "authors"
 
 [[params.social]]
+name = "Behance"
+icon = "fa fa-2x fa-behance"
+weight = 1
+url = "https://www.behance.net/chriscorbell"
+
+[[params.social]]
+name = "Vimeo"
+icon = "fa fa-2x fa-vimeo"
+weight = 2
+url = "https://vimeo.com/chriscorbell"
+
+[[params.social]]
 name = "Github"
 icon = "fa fa-2x fa-github"
-weight = 1
+weight = 3
 url = "https://github.com/syphant"
-
-#[[params.social]]
-#name = "Gitlab"
-#icon = "fa fa-2x fa-gitlab"
-#weight = 2
-#url = "https://gitlab.com/johndoe/"
 
 #[[params.social]]
 #name = "Twitter"
@@ -174,14 +180,9 @@ weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
-name = "Blog"
+name = "Posts"
 weight = 2
 url = "posts/"
-
-[[languages.en.menu.main]]
-name = "Projects"
-weight = 3
-url = "projects/"
 
 [[languages.en.menu.main]]
 name = "Contact"
