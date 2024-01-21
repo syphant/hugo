@@ -9,7 +9,9 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [markup.highlight]
-noClasses = false
+noClasses = true
+style = "catppuccin-mocha"
+
 
 [params]
 author = "Chris Corbell"

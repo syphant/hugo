@@ -3156,7 +3156,7 @@ strong {
 
 pre {
   display: block;
-  font-family: "JetBrainsMono Nerd Font", SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
+  font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
   font-size: 1.6rem;
   font-weight: 400;
   line-height: 2.6rem;
@@ -3170,7 +3170,7 @@ pre {
     color: inherit; }
 
 code {
-  font-family: "JetBrainsMono Nerd Font", SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
+  font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
   font-size: 1.6rem;
   font-weight: 400;
   border-radius: 0.6rem;
