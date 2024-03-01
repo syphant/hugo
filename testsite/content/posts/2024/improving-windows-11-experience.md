@@ -1,6 +1,6 @@
 +++ 
 date = 2024-02-24
-title = "Make Windows Better"
+title = "Improving the Windows 11 Experience"
 +++
 
 ![](/images/posts/autohotkey-shortcuts.gif)
