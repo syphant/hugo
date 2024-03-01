@@ -1,18 +1,18 @@
 +++
-title = "What's this here for?"
+title = "What is this?"
 +++
 
-I had the idea of creating this to post cool useful stuff that others would find interesting, mostly related to:
+I was inspired to create this as a place to post cool useful stuff that others might find interesting, mostly related to:
 
+* 🪟 Windows
+* 🐧 Linux
 * 🐋 Docker
-* 📦 Linux
 * 🚀 Self-hosted FOSS webapps
 * 🍿 Media management
 * ✨ Fun terminal shenanigans
-* 💸 Hardware problems (hopefully not)
-* 🌐 Learning more web dev stuff that I suck at
-* 🚫 Unholy technomancy forbidden by the Geneva Convention
+* 💽 Hardware problems (hopefully not)
+* 🌐 Learning more web development (I still suck at it)
 
-As far as frequency is concerned, I suppose we'll see how often inspiration and motivation will strike.
+So we'll see how frequently I end up adding content here, depending on available free time.
 
 Built with [Hugo](https://gohugo.io/), deployed with [Cloudflare](https://pages.cloudflare.com/). All text is set in the [Inter](https://rsms.me/inter/) typeface.

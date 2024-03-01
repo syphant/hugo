@@ -1,4 +1,5 @@
 // Fonts
+@import url("css/myfont.css");
 $font-family: -apple-system,
 Inter,
 BlinkMacSystemFont,
@@ -16,7 +17,9 @@ STXihei,"华文细黑",
 SimSun,"宋体",
 Heiti,"黑体",
 sans-serif;
-$code-font-family: SFMono-Regular,
+
+$code-font-family: JetBrains Mono,
+SFMono-Regular,
 Consolas,
 Liberation Mono,
 Menlo,

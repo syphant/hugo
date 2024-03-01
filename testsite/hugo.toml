@@ -1,5 +1,5 @@
-baseURL = "http://www.example.com"
-title = "Home"
+baseURL = "https://chriscorbell.com"
+title = "Chris Corbell"
 theme = "coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -9,12 +9,13 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [markup.highlight]
-noClasses = true
+noClasses = false
 style = "catppuccin-mocha"
 # Available styles for Chroma are listed at https://xyproto.github.io/splash/docs/all.html
 
 [params]
 author = "Chris Corbell"
+subtitle = "Hello, Friend."
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 favicon_16 = "favicon16.png"
 favicon_32 = "favicon32.png"
