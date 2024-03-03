@@ -115,7 +115,7 @@ return
 Run, C:\Program Files\NirCmd\hidetaskbar.bat
 return
 
-; Hide Taskbar with LWin + Page Up
+; Show Taskbar with LWin + Page Up
 #PgUp::
 Run, C:\Program Files\NirCmd\showtaskbar.bat
 return
